@@ -52,3 +52,5 @@ streamlit run app.py
 ---
 
 *Disclaimer: This software is designed as a decision-support tool for academic and clinical research validation. All automated outputs should be cross-verified against official curated databases (like ClinVar) by a board-certified medical geneticist or genetic counselor before clinical action.*
+
+updated README with live deployment links and workflow charts
